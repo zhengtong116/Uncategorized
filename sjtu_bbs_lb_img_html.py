@@ -92,6 +92,6 @@ html_file = open("gallary.html",'w')
 html_file.write(html)
 html_file.close()
 
-print("下在完成！！！")
+print("下载完成！！！")
 
 
